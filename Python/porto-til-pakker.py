@@ -9,4 +9,4 @@ elif float(brevvægt) <= 1 :
 elif float(brevvægt) <= 2 :
     print("Dit brev koster 60 DKK at sende i Danmark")
 elif float(brevvægt) > 2 :
-    print("Det er en pakke og kan derfor ikke sendes med brev. Det er en pakke")
+    print("Det er en pakke og kan derfor ikke sendes med brev.")
